@@ -1,0 +1,739 @@
+{
+  "library": "Electric Guitar FSBS Direct",
+  "format": "opus-48k",
+  "fileCount": 122,
+  "files": [
+    {
+      "file": "A2_s2_01.opus",
+      "name": "A2_s2_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_01.opus",
+      "size": 227858
+    },
+    {
+      "file": "A2_s2_02.opus",
+      "name": "A2_s2_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_02.opus",
+      "size": 220514
+    },
+    {
+      "file": "A2_s2_03.opus",
+      "name": "A2_s2_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_03.opus",
+      "size": 255567
+    },
+    {
+      "file": "A2_s2_04.opus",
+      "name": "A2_s2_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_04.opus",
+      "size": 238647
+    },
+    {
+      "file": "A2_s2_soft_01.opus",
+      "name": "A2_s2_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_soft_01.opus",
+      "size": 258347
+    },
+    {
+      "file": "A2_s2_soft_02.opus",
+      "name": "A2_s2_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_soft_02.opus",
+      "size": 317744
+    },
+    {
+      "file": "A2_s2_soft_03.opus",
+      "name": "A2_s2_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_soft_03.opus",
+      "size": 283532
+    },
+    {
+      "file": "A2_s2_soft_04.opus",
+      "name": "A2_s2_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A2_s2_soft_04.opus",
+      "size": 289233
+    },
+    {
+      "file": "A_5_s6_01.opus",
+      "name": "A_5_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A_5_s6_01.opus",
+      "size": 63847
+    },
+    {
+      "file": "A_5_s6_02.opus",
+      "name": "A_5_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A_5_s6_02.opus",
+      "size": 58674
+    },
+    {
+      "file": "A_5_s6_03.opus",
+      "name": "A_5_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A_5_s6_03.opus",
+      "size": 53792
+    },
+    {
+      "file": "A_5_s6_04.opus",
+      "name": "A_5_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/A_5_s6_04.opus",
+      "size": 59550
+    },
+    {
+      "file": "B3_s5_01.opus",
+      "name": "B3_s5_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_01.opus",
+      "size": 121155
+    },
+    {
+      "file": "B3_s5_02.opus",
+      "name": "B3_s5_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_02.opus",
+      "size": 124344
+    },
+    {
+      "file": "B3_s5_03.opus",
+      "name": "B3_s5_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_03.opus",
+      "size": 114996
+    },
+    {
+      "file": "B3_s5_04.opus",
+      "name": "B3_s5_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_04.opus",
+      "size": 117244
+    },
+    {
+      "file": "B3_s5_soft_01.opus",
+      "name": "B3_s5_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_soft_01.opus",
+      "size": 140662
+    },
+    {
+      "file": "B3_s5_soft_02.opus",
+      "name": "B3_s5_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_soft_02.opus",
+      "size": 122676
+    },
+    {
+      "file": "B3_s5_soft_03.opus",
+      "name": "B3_s5_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_soft_03.opus",
+      "size": 115650
+    },
+    {
+      "file": "B3_s5_soft_04.opus",
+      "name": "B3_s5_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B3_s5_soft_04.opus",
+      "size": 133831
+    },
+    {
+      "file": "B4_s6_01.opus",
+      "name": "B4_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B4_s6_01.opus",
+      "size": 58797
+    },
+    {
+      "file": "B4_s6_02.opus",
+      "name": "B4_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B4_s6_02.opus",
+      "size": 59280
+    },
+    {
+      "file": "B4_s6_03.opus",
+      "name": "B4_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B4_s6_03.opus",
+      "size": 58148
+    },
+    {
+      "file": "B4_s6_04.opus",
+      "name": "B4_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/B4_s6_04.opus",
+      "size": 50416
+    },
+    {
+      "file": "C2_s1_01.opus",
+      "name": "C2_s1_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_01.opus",
+      "size": 230194
+    },
+    {
+      "file": "C2_s1_02.opus",
+      "name": "C2_s1_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_02.opus",
+      "size": 209968
+    },
+    {
+      "file": "C2_s1_03.opus",
+      "name": "C2_s1_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_03.opus",
+      "size": 205733
+    },
+    {
+      "file": "C2_s1_04.opus",
+      "name": "C2_s1_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_04.opus",
+      "size": 186322
+    },
+    {
+      "file": "C2_s1_soft_01.opus",
+      "name": "C2_s1_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_soft_01.opus",
+      "size": 238304
+    },
+    {
+      "file": "C2_s1_soft_02.opus",
+      "name": "C2_s1_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_soft_02.opus",
+      "size": 212222
+    },
+    {
+      "file": "C2_s1_soft_03.opus",
+      "name": "C2_s1_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_soft_03.opus",
+      "size": 216781
+    },
+    {
+      "file": "C2_s1_soft_04.opus",
+      "name": "C2_s1_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C2_s1_soft_04.opus",
+      "size": 235273
+    },
+    {
+      "file": "C3_s2_01.opus",
+      "name": "C3_s2_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_01.opus",
+      "size": 138514
+    },
+    {
+      "file": "C3_s2_02.opus",
+      "name": "C3_s2_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_02.opus",
+      "size": 167347
+    },
+    {
+      "file": "C3_s2_03.opus",
+      "name": "C3_s2_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_03.opus",
+      "size": 179545
+    },
+    {
+      "file": "C3_s2_04.opus",
+      "name": "C3_s2_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_04.opus",
+      "size": 169465
+    },
+    {
+      "file": "C3_s2_soft_01.opus",
+      "name": "C3_s2_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_soft_01.opus",
+      "size": 179308
+    },
+    {
+      "file": "C3_s2_soft_02.opus",
+      "name": "C3_s2_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_soft_02.opus",
+      "size": 183958
+    },
+    {
+      "file": "C3_s2_soft_03.opus",
+      "name": "C3_s2_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_soft_03.opus",
+      "size": 194291
+    },
+    {
+      "file": "C3_s2_soft_04.opus",
+      "name": "C3_s2_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C3_s2_soft_04.opus",
+      "size": 218107
+    },
+    {
+      "file": "C5_s6_01.opus",
+      "name": "C5_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C5_s6_01.opus",
+      "size": 64331
+    },
+    {
+      "file": "C5_s6_02.opus",
+      "name": "C5_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C5_s6_02.opus",
+      "size": 63214
+    },
+    {
+      "file": "C5_s6_03.opus",
+      "name": "C5_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C5_s6_03.opus",
+      "size": 73400
+    },
+    {
+      "file": "C5_s6_04.opus",
+      "name": "C5_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C5_s6_04.opus",
+      "size": 68621
+    },
+    {
+      "file": "C5_s6_soft_01.opus",
+      "name": "C5_s6_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C5_s6_soft_01.opus",
+      "size": 77780
+    },
+    {
+      "file": "C5_s6_soft_02.opus",
+      "name": "C5_s6_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C5_s6_soft_02.opus",
+      "size": 62564
+    },
+    {
+      "file": "C_4_s5_01.opus",
+      "name": "C_4_s5_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_01.opus",
+      "size": 97814
+    },
+    {
+      "file": "C_4_s5_02.opus",
+      "name": "C_4_s5_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_02.opus",
+      "size": 96701
+    },
+    {
+      "file": "C_4_s5_03.opus",
+      "name": "C_4_s5_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_03.opus",
+      "size": 100052
+    },
+    {
+      "file": "C_4_s5_04.opus",
+      "name": "C_4_s5_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_04.opus",
+      "size": 92731
+    },
+    {
+      "file": "C_4_s5_soft_01.opus",
+      "name": "C_4_s5_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_soft_01.opus",
+      "size": 76303
+    },
+    {
+      "file": "C_4_s5_soft_02.opus",
+      "name": "C_4_s5_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_soft_02.opus",
+      "size": 87434
+    },
+    {
+      "file": "C_4_s5_soft_03.opus",
+      "name": "C_4_s5_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_soft_03.opus",
+      "size": 73353
+    },
+    {
+      "file": "C_4_s5_soft_04.opus",
+      "name": "C_4_s5_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_4_s5_soft_04.opus",
+      "size": 89520
+    },
+    {
+      "file": "C_6_s6_01.opus",
+      "name": "C_6_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_6_s6_01.opus",
+      "size": 39790
+    },
+    {
+      "file": "C_6_s6_02.opus",
+      "name": "C_6_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_6_s6_02.opus",
+      "size": 38394
+    },
+    {
+      "file": "C_6_s6_03.opus",
+      "name": "C_6_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_6_s6_03.opus",
+      "size": 43563
+    },
+    {
+      "file": "C_6_s6_04.opus",
+      "name": "C_6_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/C_6_s6_04.opus",
+      "size": 43430
+    },
+    {
+      "file": "D3_s3_01.opus",
+      "name": "D3_s3_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_01.opus",
+      "size": 223109
+    },
+    {
+      "file": "D3_s3_02.opus",
+      "name": "D3_s3_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_02.opus",
+      "size": 219386
+    },
+    {
+      "file": "D3_s3_03.opus",
+      "name": "D3_s3_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_03.opus",
+      "size": 208876
+    },
+    {
+      "file": "D3_s3_04.opus",
+      "name": "D3_s3_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_04.opus",
+      "size": 206967
+    },
+    {
+      "file": "D3_s3_soft_01.opus",
+      "name": "D3_s3_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_soft_01.opus",
+      "size": 190796
+    },
+    {
+      "file": "D3_s3_soft_02.opus",
+      "name": "D3_s3_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_soft_02.opus",
+      "size": 214537
+    },
+    {
+      "file": "D3_s3_soft_03.opus",
+      "name": "D3_s3_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_soft_03.opus",
+      "size": 198102
+    },
+    {
+      "file": "D3_s3_soft_04.opus",
+      "name": "D3_s3_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D3_s3_soft_04.opus",
+      "size": 174392
+    },
+    {
+      "file": "D5_s6_01.opus",
+      "name": "D5_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D5_s6_01.opus",
+      "size": 48134
+    },
+    {
+      "file": "D5_s6_02.opus",
+      "name": "D5_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D5_s6_02.opus",
+      "size": 52768
+    },
+    {
+      "file": "D5_s6_03.opus",
+      "name": "D5_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D5_s6_03.opus",
+      "size": 55825
+    },
+    {
+      "file": "D5_s6_soft_01.opus",
+      "name": "D5_s6_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/D5_s6_soft_01.opus",
+      "size": 45838
+    },
+    {
+      "file": "E2_s1_01.opus",
+      "name": "E2_s1_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_01.opus",
+      "size": 208688
+    },
+    {
+      "file": "E2_s1_02.opus",
+      "name": "E2_s1_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_02.opus",
+      "size": 286902
+    },
+    {
+      "file": "E2_s1_03.opus",
+      "name": "E2_s1_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_03.opus",
+      "size": 197702
+    },
+    {
+      "file": "E2_s1_04.opus",
+      "name": "E2_s1_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_04.opus",
+      "size": 315188
+    },
+    {
+      "file": "E2_s1_soft_01.opus",
+      "name": "E2_s1_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_soft_01.opus",
+      "size": 288235
+    },
+    {
+      "file": "E2_s1_soft_02.opus",
+      "name": "E2_s1_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_soft_02.opus",
+      "size": 245675
+    },
+    {
+      "file": "E2_s1_soft_03.opus",
+      "name": "E2_s1_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_soft_03.opus",
+      "size": 221747
+    },
+    {
+      "file": "E2_s1_soft_04.opus",
+      "name": "E2_s1_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E2_s1_soft_04.opus",
+      "size": 259975
+    },
+    {
+      "file": "E3_s3_01.opus",
+      "name": "E3_s3_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_01.opus",
+      "size": 120808
+    },
+    {
+      "file": "E3_s3_02.opus",
+      "name": "E3_s3_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_02.opus",
+      "size": 133845
+    },
+    {
+      "file": "E3_s3_03.opus",
+      "name": "E3_s3_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_03.opus",
+      "size": 109874
+    },
+    {
+      "file": "E3_s3_04.opus",
+      "name": "E3_s3_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_04.opus",
+      "size": 129261
+    },
+    {
+      "file": "E3_s3_soft_01.opus",
+      "name": "E3_s3_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_soft_01.opus",
+      "size": 133092
+    },
+    {
+      "file": "E3_s3_soft_02.opus",
+      "name": "E3_s3_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_soft_02.opus",
+      "size": 133189
+    },
+    {
+      "file": "E3_s3_soft_03.opus",
+      "name": "E3_s3_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_soft_03.opus",
+      "size": 120523
+    },
+    {
+      "file": "E3_s3_soft_04.opus",
+      "name": "E3_s3_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E3_s3_soft_04.opus",
+      "size": 129984
+    },
+    {
+      "file": "E4_s6_01.opus",
+      "name": "E4_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_01.opus",
+      "size": 84713
+    },
+    {
+      "file": "E4_s6_02.opus",
+      "name": "E4_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_02.opus",
+      "size": 92366
+    },
+    {
+      "file": "E4_s6_03.opus",
+      "name": "E4_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_03.opus",
+      "size": 91649
+    },
+    {
+      "file": "E4_s6_04.opus",
+      "name": "E4_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_04.opus",
+      "size": 114212
+    },
+    {
+      "file": "E4_s6_soft_01.opus",
+      "name": "E4_s6_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_soft_01.opus",
+      "size": 90968
+    },
+    {
+      "file": "E4_s6_soft_02.opus",
+      "name": "E4_s6_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_soft_02.opus",
+      "size": 86825
+    },
+    {
+      "file": "E4_s6_soft_03.opus",
+      "name": "E4_s6_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_soft_03.opus",
+      "size": 73173
+    },
+    {
+      "file": "E4_s6_soft_04.opus",
+      "name": "E4_s6_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/E4_s6_soft_04.opus",
+      "size": 80536
+    },
+    {
+      "file": "F2_s1_01.opus",
+      "name": "F2_s1_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_01.opus",
+      "size": 276504
+    },
+    {
+      "file": "F2_s1_02.opus",
+      "name": "F2_s1_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_02.opus",
+      "size": 279560
+    },
+    {
+      "file": "F2_s1_03.opus",
+      "name": "F2_s1_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_03.opus",
+      "size": 317961
+    },
+    {
+      "file": "F2_s1_04.opus",
+      "name": "F2_s1_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_04.opus",
+      "size": 288873
+    },
+    {
+      "file": "F2_s1_soft_01.opus",
+      "name": "F2_s1_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_soft_01.opus",
+      "size": 235037
+    },
+    {
+      "file": "F2_s1_soft_02.opus",
+      "name": "F2_s1_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_soft_02.opus",
+      "size": 402444
+    },
+    {
+      "file": "F2_s1_soft_03.opus",
+      "name": "F2_s1_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_soft_03.opus",
+      "size": 404294
+    },
+    {
+      "file": "F2_s1_soft_04.opus",
+      "name": "F2_s1_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F2_s1_soft_04.opus",
+      "size": 409232
+    },
+    {
+      "file": "F5_s6_01.opus",
+      "name": "F5_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F5_s6_01.opus",
+      "size": 43488
+    },
+    {
+      "file": "F5_s6_02.opus",
+      "name": "F5_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F5_s6_02.opus",
+      "size": 64981
+    },
+    {
+      "file": "F5_s6_03.opus",
+      "name": "F5_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F5_s6_03.opus",
+      "size": 58497
+    },
+    {
+      "file": "F5_s6_04.opus",
+      "name": "F5_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/F5_s6_04.opus",
+      "size": 63419
+    },
+    {
+      "file": "G3_s4_01.opus",
+      "name": "G3_s4_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_01.opus",
+      "size": 150734
+    },
+    {
+      "file": "G3_s4_02.opus",
+      "name": "G3_s4_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_02.opus",
+      "size": 142109
+    },
+    {
+      "file": "G3_s4_03.opus",
+      "name": "G3_s4_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_03.opus",
+      "size": 150658
+    },
+    {
+      "file": "G3_s4_04.opus",
+      "name": "G3_s4_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_04.opus",
+      "size": 136268
+    },
+    {
+      "file": "G3_s4_soft_01.opus",
+      "name": "G3_s4_soft_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_soft_01.opus",
+      "size": 134780
+    },
+    {
+      "file": "G3_s4_soft_02.opus",
+      "name": "G3_s4_soft_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_soft_02.opus",
+      "size": 148165
+    },
+    {
+      "file": "G3_s4_soft_03.opus",
+      "name": "G3_s4_soft_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_soft_03.opus",
+      "size": 143500
+    },
+    {
+      "file": "G3_s4_soft_04.opus",
+      "name": "G3_s4_soft_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G3_s4_soft_04.opus",
+      "size": 122729
+    },
+    {
+      "file": "G4_s6_01.opus",
+      "name": "G4_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G4_s6_01.opus",
+      "size": 82107
+    },
+    {
+      "file": "G4_s6_02.opus",
+      "name": "G4_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G4_s6_02.opus",
+      "size": 98602
+    },
+    {
+      "file": "G4_s6_03.opus",
+      "name": "G4_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G4_s6_03.opus",
+      "size": 79354
+    },
+    {
+      "file": "G4_s6_04.opus",
+      "name": "G4_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G4_s6_04.opus",
+      "size": 106538
+    },
+    {
+      "file": "G_5_s6_01.opus",
+      "name": "G_5_s6_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G_5_s6_01.opus",
+      "size": 77161
+    },
+    {
+      "file": "G_5_s6_02.opus",
+      "name": "G_5_s6_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G_5_s6_02.opus",
+      "size": 72715
+    },
+    {
+      "file": "G_5_s6_03.opus",
+      "name": "G_5_s6_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G_5_s6_03.opus",
+      "size": 79725
+    },
+    {
+      "file": "G_5_s6_04.opus",
+      "name": "G_5_s6_04",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-eguita/main/G_5_s6_04.opus",
+      "size": 71327
+    }
+  ]
+}
